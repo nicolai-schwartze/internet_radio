@@ -6,4 +6,5 @@ The main functions of are:
 - button to connect RaspberryPi with bluetooth speakers
 - play/pause button
 - switch channels 
-- shut down 
+- one channel is for YouTube
+- shut down RaspberryPi
